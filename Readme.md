@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [PageWithStyle.aspx](./CS/WebSite/PageWithStyle.aspx) (VB: [PageWithStyle.aspx](./VB/WebSite/PageWithStyle.aspx))
-* [PageWithStyle.aspx.cs](./CS/WebSite/PageWithStyle.aspx.cs) (VB: [PageWithStyle.aspx](./VB/WebSite/PageWithStyle.aspx))
+* [PageWithStyle.aspx.cs](./CS/WebSite/PageWithStyle.aspx.cs) (VB: [PageWithStyle.aspx.vb](./VB/WebSite/PageWithStyle.aspx.vb))
 <!-- default file list end -->
 # How to hide a collapse button for expanded groups
 
