@@ -7,6 +7,9 @@
 * [PageWithStyle.aspx.cs](./CS/WebSite/PageWithStyle.aspx.cs) (VB: [PageWithStyle.aspx.vb](./VB/WebSite/PageWithStyle.aspx.vb))
 <!-- default file list end -->
 # How to hide a collapse button for expanded groups
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2160/)**
+<!-- run online end -->
 
 
 <p>Sometimes it is required to manipulate expanded ASPxGridView ("minus") buttons. This example demonstrates two approaches:<br />
